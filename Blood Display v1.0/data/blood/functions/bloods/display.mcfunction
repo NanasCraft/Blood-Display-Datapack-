@@ -1,0 +1,4 @@
+execute if score blood bd-option matches 1 if score quality bd-option matches 0 at @e[nbt={HurtTime:10s}] run particle minecraft:dust 1 0 0 1 ~ ~1 ~ .2 .2 .2 1 25 force
+execute if score blood bd-option matches 1 if score quality bd-option matches 0 at @e[nbt={HurtTime:10s}] run particle minecraft:dust 1 0 0 1 ~ ~.3 ~ .2 .2 .2 1 25 force
+execute if score blood bd-option matches 1 if score quality bd-option matches 1 at @e[nbt={HurtTime:10s}] run particle minecraft:block redstone_block ~ ~1 ~ .1 .1 .1 1 35 force
+execute if score blood bd-option matches 1 if score quality bd-option matches 1 at @e[nbt={HurtTime:10s}] run particle minecraft:block redstone_block ~ ~.5 ~ .1 .1 .1 1 35 force
