@@ -1,2 +1,4 @@
-# Blood-Display-Datapack-
-Datapack not Plugin
+# Blood Display Datapack
+
+## Download:
++ GitHub(https://github.com/NanasCraft/Blood-Display-Datapack-/releases)
