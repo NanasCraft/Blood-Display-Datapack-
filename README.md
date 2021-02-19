@@ -1,4 +1,4 @@
 # Blood Display Datapack
 
 ## Download:
-+ GitHub(https://github.com/NanasCraft/Blood-Display-Datapack-/releases)
++ [GitHub](https://github.com/NanasCraft/Blood-Display-Datapack-/releases)
